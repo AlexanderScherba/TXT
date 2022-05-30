@@ -1,0 +1,5 @@
+Movie: YipMan
+Serial: Friends
+Food: Shashlik
+Season: Summer
+Country: Dominikana

@@ -1,0 +1,4 @@
+Skill1: terminal
+Skill2: git
+Skill3: postman
+Skill4: android_studio
