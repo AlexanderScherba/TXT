@@ -1,0 +1,6 @@
+FirstName: Alexander
+Patronymic: Vladimirovich
+LastName: Scherba
+Age: 43
+Pets: 5
+Salary: 10000
